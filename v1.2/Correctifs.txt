@@ -1,0 +1,3 @@
+- Ajout d'un système de sauvegarde (possibilité de reprendre la partie précédente ou d'en recommencer une).
+- Correction de l'affichage de la grille lorsqu'une mine explose
+- reorganisation des packages

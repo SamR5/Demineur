@@ -1,0 +1,11 @@
+TERRAIN : '.'
+DRAPEAU : '!'
+MINE : '*'
+MINE_EXPLOSE : 'X'
+CASE_ISOLEE : '/'
+POURCENTAGE_DE_MINE : '0.15'
+TAILLE_GRILLE_MIN : '5'
+TAILLE_GRILLE_MAX : '25'
+
+
+Si modification, toujours laisser les symbols / valeurs entre guillemets : ''

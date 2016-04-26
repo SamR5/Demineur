@@ -1,0 +1,2 @@
+- Ajout de commandes : 'q' pour quitter, 'r' pour recommencer (avec demandes de confirmation)
+- lecture du fichier de sauvegarde et du fichier paramètres compatible avec les autres systèmes d'exploitation
